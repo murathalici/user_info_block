@@ -1,0 +1,1 @@
+This Drupal module creates a block that displays the current user's name and email address.
