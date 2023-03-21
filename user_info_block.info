@@ -1,0 +1,4 @@
+name = User Info Block
+description = Display the current user's name and email address in a block.
+core = 7.x
+dependencies[] = user
